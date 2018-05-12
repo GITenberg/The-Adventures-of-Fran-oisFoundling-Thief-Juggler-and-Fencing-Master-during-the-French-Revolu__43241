@@ -1,0 +1,33 @@
+_repo: The-Adventures-of-Fran-oisFoundling-Thief-Juggler-and-Fencing-Master-during-the-French-Revolu__43241
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43241-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Mitchell, S. Weir (Silas Weir)
+    aliases:
+    - Mitchell, Silas Weir
+    - Mitchell, Weir
+    birthdate: 1829
+    deathdate: 1914
+    gutenberg_agent_id: '357'
+    url: http://www.gutenberg.org/2009/agents/357
+    wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2013-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PS'
+title: 'The Adventures of François
+
+  Foundling, Thief, Juggler, and Fencing-Master during the French Revolution'
+url: http://www.gutenberg.org/ebooks/43241
