@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/357
     wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43241#The-Adventures-of-Fran-oisFoundling-Thief-Juggler-and-Fencing-Master-during-the-French-Revolu_
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2013-07-17'
 gutenberg_type: Text
